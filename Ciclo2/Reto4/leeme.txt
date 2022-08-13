@@ -1,0 +1,3 @@
+La solución fue desarrollada con el IDE NetBeans
+
+Para ver la solución abrir proyecto "ProyectoSolucion" en Netbeans
